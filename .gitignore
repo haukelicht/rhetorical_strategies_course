@@ -1,3 +1,13 @@
+.DS_Store
+.Rprofile
+manifesto_apikey.txt
+
+renv/
+syllabus/
+courses/
+data/
+code/sentiment_and_emotions
+
 # History files
 .Rhistory
 .Rapp.history
