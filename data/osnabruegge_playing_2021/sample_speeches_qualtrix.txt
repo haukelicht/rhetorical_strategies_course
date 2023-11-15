@@ -1,0 +1,960 @@
+SPEECH575312: Please rate the level of emotiveness of the following speech - “I agree strongly with my hon Friend He has direct experience of this issue and we need to tackle the culture of impunity that grows up in such situations It is important to use every possible mechanism he eloquently described one such mechanism and I hope that he will ensure that Foreign Office Ministers can gather from his experience the extent of what can be done to tackle that culture”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH280124: Please rate the level of emotiveness of the following speech - “I respect many of the hon Gentleman s views but he is wrong on that point as he would discover if he were to look at the treaty One of the interesting and important things that the treaty does is expressly to allow for the first time the right of a signatory country to leave the European Union which is exactly not what he is arguing The treaty would allow power to be taken back if a country were to decide to take that course”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH214280: Please rate the level of emotiveness of the following speech - “I thank the Secretary of State for that reply I too welcomed the statement by the leader of Sinn Fein and by the IRA leadership over Easter Does he agree however that it should be the duty of any politician who is committed to exclusively democratic and peaceful means of pursuing their objectives to ensure that any act of criminality or withholding of illegal arms should be reported to the police so that proper criminal proceedings can then take place”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH741821: Please rate the level of emotiveness of the following speech - “Our growing defence budget allows us to expand the defence attaché network including new posts in Finland Albania and Senegal also covering the Gambia Mali and Niger We are also creating new deputy posts in Qatar Afghanistan Latvia Lithuania and Georgia The expansion of the DA network will increase our global defensive reach and influence and will strengthen our partnerships around the world as set out in the 2015 strategic defence and security review”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH236428: Please rate the level of emotiveness of the following speech - “My hon Friend has touched on the subject of deficits but is he aware that the new Norfolk and Norwich primary care trust is starting off with a staggering debt of 50 million We have already heard that the Queen Elizabeth hospital in my constituency will not carry out any non urgent operations during next February and March Surely the Government should allow the new PCTs to start without these staggering deficits”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH54969: Please rate the level of emotiveness of the following speech - “In the detailed press notice that the hon Gentleman is reading with such care does he have space for an insertion on the views of elected Members such as that in industrial disputes people have the right to put their point of view the right to demand at least some understanding of their position and the right to exercise that under existing trade union law Also could he please not read the rest of his speech”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH705118: Please rate the level of emotiveness of the following speech - “Food bank use has risen by 1 665 since the Prime Minister took office in 2010 In Cardiff Central I meet people every week who rely on food banks to feed their families Does the Prime Minister know how many more families will be relying on food banks as a result of his Government s cuts to tax credits and does he care”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH3020: Please rate the level of emotiveness of the following speech - “I am happy to offer the hon Gentleman reassurance First the MOD has given an undertaking that all apprentices currently at the school will continue to be funded and will therefore be able to complete their apprenticeship Secondly the MOD is discussing with the trade unions future intakes of apprentices in the area I assure the hon Gentleman that the whole point of the MOD proposals is to provide long term stability and a future for the facility and where possible to extend not narrow the opportunities for young people in his area”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH843081: Please rate the level of emotiveness of the following speech - “It is good to see the hon Lady back in the House As I said to my hon Friend the Member for Walsall North Eddie Hughes  we are providing extra funding for police forces It is no good Labour Members shaking their heads and saying that because we are providing extra funding for police forces and it is of course up to police and crime commissioners to decide how that money is spent”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH65: Please rate the level of emotiveness of the following speech - “Does the hon Gentleman share my frustration and look to current Front Benchers in the context of the Pauline conversion that he seems to have undergone I do not doubt for one moment the sincerity of his remarks with which I agree but he makes them having taken the Major shilling There are also people who have taken the Blair shilling That is the problem Why do not some Front Benchers stand up now and say what they mean and mean what they say rather than waiting until they are removed to the Back Benches”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH285429: Please rate the level of emotiveness of the following speech - “The apprenticeship was dying under the Conservatives There are now 250 000 young people in apprenticeships and that number is going to double to 500 000 over the next decade People must face up to this big challenge for our future either we can educate young people to the age of 18 in work whether part time or full time in training or in education or we will fall behind our competitors I am sorry that the Conservative party thinks that education to 18 is a stunt It is the right way forward for the British people”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH637914: Please rate the level of emotiveness of the following speech - “The hon Gentleman is doing a very good job in answering the question that his colleague the hon Member for Shrewsbury and Atcham Daniel Kawczynski  put about selling the whole idea of fracking Does he agree that not only are there environmental benefits to fracking but that when one way to tackle fuel poverty provide fuel security make UK industry more competitive and even attract some industries that have gone overseas to come back again is to have our own supply of gas from the shale gas available to us”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH54380: Please rate the level of emotiveness of the following speech - “I am grateful to the hon Gentleman for raising that crucial issue Does he agree that not all the students who appear in the figures as dropping out actually do drop out because some move to another degree course Under the Government s proposals however they would be counted twice Does he accept that we need a comprehensive and cogent way to track young people particularly after the age of 18 so that we can produce realistic statistics that we can all use as a starting point for debating the issue”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH748387: Please rate the level of emotiveness of the following speech - “My hon Friend makes the point perfectly It is hard to improve on the way he put it The alternative to what we are doing would be to place a greater burden on general taxpayers whose lifetime earnings will be lower than those of people who have benefited from a university education In the case of women graduates lifetime earnings will be 250 000 higher than those of non graduates and in the case of men graduates lifetime earnings will be 100 000 higher than those of non graduates”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH629010: Please rate the level of emotiveness of the following speech - “I am very happy to look at the case the hon Lady mentions She says she does not want that but I think that is the right thing to do to look at this individual case In all our ambulance areas we have waiting time targets that ambulances are meant to meet in response times and I am very happy to look to see what happened in this case and whether lessons can be learned for the future”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH951177: Please rate the level of emotiveness of the following speech - “Given what we know about the science in relation to climate change and what we know about what is happening to biodiversity habitat and species loss it is absolutely right that this Government s focus should be on tackling and preventing climate change both through technology and by doing everything we can to protect and restore the natural world If we do not do that no amount of money from this or any other aid Department will properly compensate poorer countries for the devastation that will follow”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH889153: Please rate the level of emotiveness of the following speech - “No wonder the Secretary of State has been slapped down by his own stats watchdog four times since he took office The IFS found that per pupil funding is hundreds of pounds lower in real terms than it was in 2015 and is set to fall again next year without new funding so I ask him again will he be asking the Chancellor to reverse all his cuts in full and in real terms”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH545870: Please rate the level of emotiveness of the following speech - “Does my right hon Friend agree that we need to study Lord Justice Leveson s recommendations very carefully but that any decision affecting the freedom of the press is so important that it should be made only by Parliament Does she accept that there is now almost total agreement that we need a new independent regulator with tough powers but that the decision on whether there should be any legislative back up involving statute is of such huge importance that we need to be absolutely certain that there is no alternative before proceeding down that route”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH376726: Please rate the level of emotiveness of the following speech - “Does the right hon Gentleman agree that the Labour party has failed abysmally to reform the second Chamber which is the largest entirely unelected second Chamber in Europe if not the world Rather than a draft Bill to tinker with it if the Government really wanted to be seen as reformers they ought to get rid of the hereditary principle and have an elected Chamber on the statute book before the election”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH334355: Please rate the level of emotiveness of the following speech - “I am grateful to the Prime Minister particularly as I have reason to be aware that it is important to preserve the difference between leaks that are about national security and those that are not What I wanted to put to the Prime Minister was that earlier this afternoon in the statement arrangements were announced that involved the Serjeant at Arms being given instructions not to grant the police the ability to search in these premises without a warrant Does the Prime Minister support those arrangements”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH925348: Please rate the level of emotiveness of the following speech - “The hon Lady again raises the important issue of autism I am sure that as constituency MPs we all see cases where parents have found it very difficult to get support for their children who are on the autistic spectrum It is important to ensure that there is the awareness and the ability to deal with this issue As I said in response to my right hon Friend the Member for Chesham and Amersham Dame Cheryl Gillan  we are looking again at our autism strategy because we want to ensure that we have in place all we need to support those with autism”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH575239: Please rate the level of emotiveness of the following speech - “On the issue of plain packaging for cigarettes the consultation is still under way and we are looking at the issue carefully On minimum pricing for alcohol it is important that we take action to deal with deeply discounted alcohol with cans of lager sometimes selling for as little as 25p in supermarkets We will be bringing forward a package of measures and it is important that we get this right”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH151940: Please rate the level of emotiveness of the following speech - “Is my hon Friend aware of the statement issued tonight by the right hon Member for Upper Bann Mr Trimble  in which he claims to have negotiated the retention of the Royal Irish Regiment last year Is he also aware that soldiers are being briefed across the Province that their regiment or the home service battalions are to be disbanded within the next 18 months Will he therefore comment on what the right hon Gentleman said”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH953042: Please rate the level of emotiveness of the following speech - “I thank the Prime Minister for giving way He visited St Albans and found it fabulous but my St Albans private schools including one of the oldest in the country are hugely worried about the asset grab proposed by the Leader of the Opposition Will the Prime Minister give all private schools the reassurance that they will not be just the first of the charitable organisations whose assets will be under attack from the Leader of the Opposition”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH953180: Please rate the level of emotiveness of the following speech - “As a London MP I feel slightly embarrassed that we are getting all the riches as my hon Friend puts it she makes a powerful point HS2 goes through my seat in East Acton Is she not as alarmed as I am that it seems to be going over budget and to haemorrhage CEOs as often as a lot of people change their knickers Does she not agree that these big projects should be better managed advice”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH956620: Please rate the level of emotiveness of the following speech - “I just wanted to highlight the brass neck of the Chancellor having worked in the banking sector not to accept that it is the banking crisis the clue is in the name He then came into Parliament and presided over dreadful drastic cuts on our constituents police cuts school cuts the list goes on Now he has the brass neck to say that it is all going to be fine that we can have our cake and eat it Having damaged people s lives he should take responsibility before he starts attacking the Labour party”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH520908: Please rate the level of emotiveness of the following speech - “You may be aware that this is adult learners week Mr Speaker and Gosport s inspirational Read and Grow charity has just received lottery funds to support the innovative work it is doing with adult literacy May I invite the Prime Minister and the education team to visit Gosport and see for themselves how this work could be rolled out across the country to benefit people”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH935654: Please rate the level of emotiveness of the following speech - “My thoughts today are with my 94 year old step father who has once again returned to Normandy to remember that it was soldiers sailors and airmen from not only the UK and the US but our allies especially those all over the Commonwealth who fought for our lives May we use this moment to thank them to thank those who serve in our armed forces today and to thank our Prime Minister who in her last few days in the job is serving our country with great dignity”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH399903: Please rate the level of emotiveness of the following speech - “I am grateful to my right hon Friend and congratulate him on his new post The single most important way to raise standards in education is to attract retain and motivate higher calibre people in teaching and school leadership What steps will the new coalition Government take to make teaching more attractive and to ensure that we increase the motivation and support of teachers”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH920934: Please rate the level of emotiveness of the following speech - “I am not sure that there was an answer to my question there I wanted no deal taken off the table the House has taken no deal off the table it is time the Prime Minister took no deal off the table The CBI said  The extension vote is a welcome dose of common sense Put in place a new process Drop red lines Every MP must show leadership through compromise  Will the Prime Minister drop the red lines Is she prepared to compromise to get through this crisis”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH119657: Please rate the level of emotiveness of the following speech - “The hon Gentleman is right in that the level of activity that we found in our schools when we came to power in 1997 was deplorably low We have now committed ourselves to providing in the period up to 2006 two hours a week of quality physical activity for every child aged five to 16 The investment programme for that is under way and we will have 400 sports colleges and 3 000 school sports co ordinators At the moment 225 of those sports colleges are up and running and some 1 300 co ordinators are in place Money is in the budget for that and we are rolling out the programme according to plan”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH519901: Please rate the level of emotiveness of the following speech - “My hon Friend is being extraordinarily generous in taking interventions Is not part of the problem that the House of Lords used to be a brilliant revising Chamber but then Tony Blair who is now to be found in various parts of the world making money and not paying tax stuffed it full of cronies and wrecked the flavour and excellence of that House He made it the broken place it is today because of Labour s galactic incompetence in government”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH314166: Please rate the level of emotiveness of the following speech - “My hon Friend has great experience as a doctor and I praise him for the work that he has done in the medical profession I agree with him that all sports should take a responsible approach to alcohol advertising The Portman Group which brings the drinks companies together has agreed to place a voluntary ban on advertising on children s football shirts and we are undertaking a review of the relationship between the price of alcohol promotion and harm The very issues my hon Friend raises will be dealt with as part of that review”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH554067: Please rate the level of emotiveness of the following speech - “Bearing in mind that Bills that might be thought to affect the royal prerogative require the signification of the Queen on Second Reading will the Prime Minister tell us whether he has yet heard from the palace whether it regards any of the major constitutional changes proposed in the Succession to the Crown Bill as intruding either on the royal prerogative or the coronation oath that Her Majesty took”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH335927: Please rate the level of emotiveness of the following speech - “My hon Friend mentioned the right to training Soon millions of workers in Britain who did not fail themselves but who were failed by the education system in past generations will have the opportunity to demand and expect extra training Does she agree that it is essential that education does not stop at 18 or 21 and that the millions of people out there who did not have the benefits of the system will now be able to enjoy the benefits of training That is one of the key points in the Bill”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH143424: Please rate the level of emotiveness of the following speech - “I certainly will I met Chief Superintendent Price only last week My right hon Friend the Prime Minister has said that people do not just want to see the bobby on the beat they want a strong organised uniformed presence back on our streets I commend the commitment of Gwent police to the introduction of police ward managers which will mean 66 extra bobbies on the beat That I think will be welcomed throughout the country”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH588976: Please rate the level of emotiveness of the following speech - “Wind energy subsidies were supposed to deliver a reduction in costs by creating economies of scale and driving technological innovation After the recent strike price announcements it is clear that wind turbines work only because they are being given the same level of subsidy as before subsidy begets subsidy not sustainability Does the Minister seriously see a future for wind turbines without subsidy and if so when”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH575334: Please rate the level of emotiveness of the following speech - “I just want to correct the right hon Gentleman on one other thing about the reciprocal rights between different countries About 1 million British people live in Spain and another million live in France but if they have not reached the retirement age they are not entitled to the full use of the Spanish or French national health services and many of them end up getting trapped So the law of unintended consequences might also apply to a lot of British people who are no longer living here”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH802843: Please rate the level of emotiveness of the following speech - “I like the Home Secretary want to hear about outcomes Recently the west midlands chief constable said that one of the outcomes for police there was that as police officers are pulled away on to anti terror alerts and more high alert policing call outs on other crimes have to be downgraded One of the things that was downgraded this is the outcome of there not being enough police in the west midlands was call outs on domestic violence”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH482310: Please rate the level of emotiveness of the following speech - “I commend and share the views of the Prime Minister concerning our brave military personnel Is the Prime Minister aware that this year we commemorate the 75th anniversary of the Jarrow march Is it not wrong that even today people in this country live in fear of the dole and unemployment The Government have been in for one year and already we are back to the 1980s I ask him a simple question will he support workers or sacrifice them”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH656184: Please rate the level of emotiveness of the following speech - “On this day of all days there is only one person who should be apologising on immigration and it is the right hon Gentleman for his total failure He is not putting it right he is making it worse Since 2010 the backlog has gone up not down and this Government have wasted 1 billion on failed IT projects and lost track of 50 000 people What was his promise before the election He said that he would reduce net immigration to tens of thousands a year What is net migration now”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH467389: Please rate the level of emotiveness of the following speech - “My hon Friend is absolutely right We have to stick to the deficit reduction programme which is the essential underpinning for future economic growth in this country We also need to take steps to ensure that that economic growth is balanced across the country and the regional growth fund and the local enterprise partnership programme are an important part of ensuring that we have growth across the entire United Kingdom”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH55249: Please rate the level of emotiveness of the following speech - “I am surprised at what the Home Secretary has said I remember that the Under Secretary the hon Member for Coventry North East Mr Ainsworth  thanked the Opposition at the end of the passage through the House of the Proceeds of Crime Bill for their contribution to proceedings I recollect that about 60 amendments tabled by the Opposition were accepted by the Government and incorporated into the legislation which was thereby improved Is that what the Home Secretary is referring to”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH53975: Please rate the level of emotiveness of the following speech - “I appreciate the commitment to dealing with antisocial behaviour but will the Prime Minister give an undertaking that the laws will be extended to Northern Ireland People there want them as well particularly to deal with the so called joy riding and the car thieving that have led to so many deaths Would it not be easier to include such measures in the new legislation than again to trifle with police reforms that were never in the Belfast agreement”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH74028: Please rate the level of emotiveness of the following speech - “Obviously as a person who has been treated by an NHS hospital I received remarkable treatment at St Thomas s I can only congratulate the NHS on the service that it provides and that is without foundation hospital status If my right hon Friend pursues the foundation hospitals policy will he ensure that all hospitals can apply for that status and that real consultation will take place with the staff patients and trade unions before we venture down that road”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH956121: Please rate the level of emotiveness of the following speech - “My right hon Friend will be aware of a number of women throughout the country including Elaine Holmes in East Renfrewshire whose lives have been ruined by vaginal mesh One of the big problems they have had has been the poor response by the Medicines and Healthcare Products Regulatory Agency to patient concerns about device licensing Will the Bill that he is talking about give us an opportunity to look again at how the licensing regime works and in particular how it responds to patient concerns”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH867245: Please rate the level of emotiveness of the following speech - “Will my right hon Friend join me in welcoming the Speaker of the Ukrainian Parliament Mr Andriy Parubiy to Westminster although I suspect that he is utterly mystified by the events that took place 10 minutes ago Will she take this opportunity to reaffirm the support of the UK for Ukraine which is in the frontline against Russian aggression Does she share the concern of Ukraine along with Lithuania and Poland about the strategic threat of the Nord Stream 2 Russian gas pipeline”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH579273: Please rate the level of emotiveness of the following speech - “The hon Gentleman conveniently forgets to mention the Labour peers We do have a problem in Parliament with the influence of third parties and we need to deal with that Clearly all party parliamentary groups which are a matter for the House and for Mr Speaker need to be looked at As we promised in the coalition agreement we will be bringing forward a lobbying register and also some measures to make sure that the trade unions behave properly too”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH896474: Please rate the level of emotiveness of the following speech - “We continue to have regular conversations with representatives of the agriculture sector on all aspects of exit including no deal planning While the Government have been clear that we do not expect no deal we continue to do the responsible thing and prepare for all eventualities As set out in our technical notices in a no deal scenario farm payment and rural development programme beneficiaries will continue to receive payments under the funding guarantee”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH863651: Please rate the level of emotiveness of the following speech - “First the right hon Gentleman cites a figure that I certainly do not recognise as the cost that he suggests applies for an application for citizenship here in the United Kingdom I repeat the point that I have made a minor who has indefinite leave to remain will have access to the benefits and entitlements that put them on an equal footing to their British citizen peers A grant of British citizenship is not required in order for someone to access those rights and benefits”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH337876: Please rate the level of emotiveness of the following speech - “Will the Prime Minister confirm that as we face the deepest recession in a quarter of a century the project to rebuild St Helier hospital a snip at 150 million just 100th of the amount spent on the VAT reduction will receive his support and will receive the signature of his Chancellor on the 150 million cheque at the appropriate moment thereby providing real jobs for local people and new hospital beds for local patients”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH839743: Please rate the level of emotiveness of the following speech - “I must say that I am surprised at the Minister because it is not a question of legality We are going to be in a transitional deal so we will still be in the single market when we leave the EU This is a Government who are in crisis and an international embarrassment The Chancellor the Secretary of State for Scotland the Scottish Conservatives and the Home Secretary have all supported membership of the single market but despite that the Government are still prepared to make everyone poorer Where is the leadership”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH96465: Please rate the level of emotiveness of the following speech - “I do not accept that final point but I accept that we have a problem and a job to do with encouraging more youngsters to study science An important element of that will be the new GCSE 21st century science on which we are working Several initiatives are being followed across the board to ensure that we get more students interested in science The Roberts report said that one of the main problems was that science was perceived as being dull and we need to work on that as well as the other initiatives to address the important problem that my hon Friend raises”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH377452: Please rate the level of emotiveness of the following speech - “I hope that the hon Gentleman is not going to ruin a cracking speech by letting off local authorities of all parties Does he agree that they see all those pounds from council tax and think     Let s build a few more houses and we can get a bit more in our empire Let em build anywhere     That is what all local authorities think regardless of colour and even those that are colourless like his own”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH693167: Please rate the level of emotiveness of the following speech - “Having led a campaign and authored a letter signed by over 120 Members of Parliament from across the House to the Prime Minister and to the BBC against calling the so called Islamic State ISIL or ISIS  I thank the Prime Minister for not calling it Islamic State  but an issue remains with calling it ISIL  Will the Prime Minister lead the way by officially calling it Daesh  as do France Turkey and other countries in the middle east which is acceptable to Muslims in this country and around the world”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH803457: Please rate the level of emotiveness of the following speech - “I am very grateful This time I want to raise the subject of amendment g  I commend the Chancellor for his efforts to explain to Cabinet colleagues that having your cake and eating it is not an option available on the Brexit negotiating table Very hard choices will have to be made Does the Chancellor agree that given the scale of what is at stake in Brexit the option of remaining in the single market must at least stay on the table”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH520104: Please rate the level of emotiveness of the following speech - “My hon Friend raises an important point Many would have wished to see a conclusion to the Abu Qatada case rather more swiftly than has been possible so far I am confident however that we are closer to the deportation of Abu Qatada today than we were two days ago We need to go through the proper processes in the UK courts My hon Friend rightly referred to the written ministerial statement and the two available processes”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH421812: Please rate the level of emotiveness of the following speech - “The hon Lady has considerable knowledge of transport issues as a result of her role on the Transport Committee and I think she understands that what the Government are doing is freeing up local councils to spend their own money rather than determining the number of grant schemes centrally There have been 26 grant streams for transport funding for local authorities but that will be reduced to four That will enable local authorities to prioritise matters in their own areas as they should do as democratically elected bodies”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH168387: Please rate the level of emotiveness of the following speech - “I welcome any progress being made on seizing the illegal profits of drug dealers in Scotland not least in Stranraer in my constituency However I am sure that the Secretary of State will agree that it is equally important for the Government to minimise the risk of these dangerous criminals striking again Is he proud of the fact that these prisoners will be entitled to automatic early release after serving only a fraction of their sentences”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH146072: Please rate the level of emotiveness of the following speech - “What we have to do is make sure that the primary consideration is not just cost and efficiency but the right way for these establishments to be run It says somewhat optimistically in my briefing that I hope the members of the Prison Officers Association will work with us to rise to these challenges but I am not entirely sure that that is what will happen Whatever happens however it is important that we ensure that the way in which our prisons are run is the most cost effective and that we do our best for the juveniles in those establishments The criteria that will be applied to any contracting process will be cost and the standard of the service”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH637062: Please rate the level of emotiveness of the following speech - “I follow the hon Member for Ellesmere Port and Neston Andrew Miller  who made a perfectly sensible and balanced contribution to this debate He said that it is 22 years since he first spoke in the House on the first day of the Queen s Speech debate and he talked about Portsmouth and its naval traditions I was just musing on whether he had the same grey sea dog beard that he is sporting today”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH237826: Please rate the level of emotiveness of the following speech - “The right hon Gentleman may come on to the fact that a number of shadow Ministers have made spending commitments during the Queen s Speech debate If those commitments are not misleading the public about what a Conservative Government would do what is the purpose of making them Those promises were made but the right hon Gentleman now says that no one should take them seriously Tell the public that”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH536965: Please rate the level of emotiveness of the following speech - “My constituent Lorraine Fraser tragically lost her son who was brutally murdered by a gang of 30 Four of the murderers received life sentences but two have been moved to an open prison under the Guittard arrangement thereby depriving my constituent of the opportunity to attend the parole board or present a victim impact statement That has obviously had a devastating impact Will the Minister agree to meet me and my constituent to discuss that worrying development”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH21: Please rate the level of emotiveness of the following speech - “Instead of making comments about Conservative results will the Prime Minister answer a simple question What were the public trying to tell him given that the Labour party polled 3 million fewer votes in this general election than in 1997 a lower result than the Conservatives achieved in 1992 Were not the public saying that the Prime Minister had failed last time and they did not believe he would succeed next time”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH241295: Please rate the level of emotiveness of the following speech - “I wish the campaign for Reddish baths well and hope that it is successful My hon Friend draws attention to the strength of our voluntary and community groups and in fact we held a reception for them in Downing street last night Up and down the country those groups provide facilities in the way that he described and perform all sorts of magnificent social enterprise work The Government fully support them and the work that they do even if the Liberal Democrats do not”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH535230: Please rate the level of emotiveness of the following speech - “As the question that the hon Lady is following up on concerns the personal allowance let me limit my answer to that Mr Speaker Her constituents in common with other Members constituents are benefiting from the fact that the Government have introduced the most radical policy for many years by putting more money back into the pockets of hard working families across the country She would do well to accept that”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH813311: Please rate the level of emotiveness of the following speech - “This morning Chancellor Philip Hammond admitted that a cloud of uncertainty hangs over the UK economy The Scottish National party is the only party in this House that is united on the issue We know that crashing out of the single market and the customs union will cost 80 000 jobs in Scotland and 2 000 per person Now is the time for leadership Will the Prime Minister come off the fence and recognise that if we are to save this economy we need to stay in the single market and the customs union”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH384093: Please rate the level of emotiveness of the following speech - “Despite the comments of all the doomsayers and those who are culturally ignorant MG ALBA is a fantastic success which has exceeded its ambitions regarding its share of audience It is a young and growing medium that deserves and is entitled to our continued support If it were available to a wider group of viewers across the UK on different platforms that would be a real boon I will do everything I can to make that happen but the BBC Trust certainly has a responsibility to help to make it happen”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH575364: Please rate the level of emotiveness of the following speech - “I am obliged to my hon Friend who is my next door neighbour in Lichfield He is right to say that the Prime Minister has said that the compensation scheme must be generous Does he agree that it must also be swift We both have constituents as do you Mr Speaker whose homes and lives are blighted now As much as the scheme needs to be generous it needs to be swift to deliver fairness for them”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH54012: Please rate the level of emotiveness of the following speech - “The hon Gentleman raises an important point and I wonder whether he can throw some light on a point that has puzzled me since the first break in at Castlereagh Surely sensitive documents should be cleared from desks and locked in safes whether in police headquarters or a Minister s office Then even if those places were infiltrated the documents would have been put away safely at the end of the day”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH519845: Please rate the level of emotiveness of the following speech - “I would certainly agree with making improvements to this country s corporate governance model Germany has a good model and although it cannot be replicated exactly it is something that we should consider I have mentioned the recommendations of the High Pay Commission which referred to employee involvement in remuneration I hope that that approach will continue By having a responsible capitalist agenda we can make improvements to secure long term sustainable growth in this country Perhaps the hon Lady and I can agree on that”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH953555: Please rate the level of emotiveness of the following speech - “My hon Friend is speaking powerfully about freedom of religion or belief As he knows my Committee is looking to take evidence in an inquiry on this subject in the coming weeks Will he speak for a moment about the importance of the Foreign Office in supporting freedom of religion or belief For example his own work defending Asia Bibi in Pakistan and speaking up for Coptic Christians in Egypt has been extremely important to many of us”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH435009: Please rate the level of emotiveness of the following speech - “I am very grateful for the hon Gentleman s pre written question which was so old that it could have been a primary source in a GCSE history paper and so long that one could have used it instead of the Bayeux tapestry Anyway I am very happy to say that the money is now there from the budget that we had already allocated for sport If only he had been paying attention during the Opposition day debate that we had four weeks ago he would have known that”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH236270: Please rate the level of emotiveness of the following speech - “I do not disagree with anything that the right hon Gentleman says on Farepak many of my constituents are involved However we cannot forget the responsibility of the Department of Trade and Industry for regulation There are clear indications from the collapse in share prices of the companies concerned that something was seriously amiss many months before the collapse happened During those months my constituents and the right hon Gentleman s constituents were still putting money into Farepak”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH601048: Please rate the level of emotiveness of the following speech - “I thank the Minister for her forthright answer Research by the law firm Slater  Gordon has found that only 3 of women who believe that they suffered discrimination because of being pregnant had actually sought legal advice Does the Minister accept that charging women 1 200 to take a case to an employment tribunal will make it even less likely that such discrimination will be challenged”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH105498: Please rate the level of emotiveness of the following speech - “Would the hon Lady admit that PFI is a good idea but needs two things to make it work properly First it needs a clear brief from the public procurer who administers it and secondly it needs to pass risk to the private sector so that failure to conform to the brief will hit the contractors pockets That is how to make it work”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH574908: Please rate the level of emotiveness of the following speech - “It is essential that this Government continue with much needed welfare reform because coupled with the tremendous increase in private sector jobs of 1 25 million it is having a real effect in Hastings and Rye with unemployment falling from 7 4 to 6 8  Could I urge the Prime Minister to stay on this track and make the difficult decisions when he has to for the good of this country and not to listen to the voices opposite which have only one thing to suggest borrow borrow borrow”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH626939: Please rate the level of emotiveness of the following speech - “On Thursday my right hon Friend the Secretary of State for Defence announced that the Service Complaints Commissioner would become an ombudsman for which the existing commissioner the excellent Dr Susan Atkins and the Defence Committee have been calling for years Does the Under Secretary agree that this very welcome move will mean that the complaints system will be both quicker and fairer and will help to bring in more aspects of the armed forces covenant”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH803517: Please rate the level of emotiveness of the following speech - “That does not make me feel confident about the gender equality legislation that is coming forward but we can only hope that this Government do things differently to their colleagues in Scotland We have never had a female Chancellor of the Exchequer or a female shadow Chancellor of the Exchequer Today I proudly stand here as the first ever House of Commons female spokesperson on the economy That demonstrates just how far we still have to travel to achieve true gender equality”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH219195: Please rate the level of emotiveness of the following speech - “The Minister will know that one of our key tasks in Afghanistan is to provide alternative livelihoods for poppy farmers DFID has said that the success of alternative livelihood programmes will depend on the security situation The former Secretary of State for Defence said that the success of our security operations would depend on the success of the alternative livelihood programmes Which of those comes first”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH320850: Please rate the level of emotiveness of the following speech - “I recently saw for myself how successful the In Control project which has cross party support has been in Oldham and what a difference it has made to the lives of disabled people The Government want 1 7 million people to be able to have independent budgets over the next three years How many of those people does the Secretary of State expect to be able to have independent budgets by the end of next March”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH235117: Please rate the level of emotiveness of the following speech - “Later today we will launch a report     Working with the grain of nature taking it forward     on four years of steady progress under the England biodiversity strategy Given climate change we cannot afford to be complacent but six out of seven of our headline biodiversity indicators are now showing positive trends Moreover the proportion of urban sites of special scientific interest in favourable condition has risen from 67 per cent in 2003 to 76 per cent in March 2006”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH97350: Please rate the level of emotiveness of the following speech - “Before listing my engagements I express my condolences on behalf of the Government the House and the British people following the tragic murder of the Swedish Foreign Minister Anna Lindh last week She was an inspiration to the Swedish people and an internationally respected Foreign Minister She will be deeply missed This morning I had meetings with ministerial colleagues and others In addition to my duties in the House I will have further such meetings later today”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH931744: Please rate the level of emotiveness of the following speech - “School funding is a huge issue on doorsteps in Lewes because for decades schools in Lewes have had significantly less funding than neighbouring authorities such as Brighton and Hove Last year schools in Sussex got a 6 increase in funding and this year schools such as Priory School in Lewes should be getting a 7 6 increase in their per pupil funding but the council is keeping back 64 000 of it Will the Prime Minister do all she can to ensure that schools get the funding they have been awarded”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH236228: Please rate the level of emotiveness of the following speech - “I will allow the hon Gentleman his attacks on my position but I will not allow him to undermine the suggestion on my part of nothing less than complete admiration for the men and women of our armed services I have no direct experience of the armed services but a distinguished member of my family did I am well aware of the sacrifices that have to be made and of the fact that when we ask our young men and women to put their lives at stake we should have very good reasons for doing so”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH953449: Please rate the level of emotiveness of the following speech - “Countries around the world are judged according to the values for which they stand and the United Kingdom always advocates for democracy around the world Does my right hon Friend agree that if we do not deliver on the mandate that the public gave us in 2016 it will be completely and utterly wrong and will undermine our democratic process Does he agree that we should therefore leave on 31 October with a deal or if that is not possible without a deal”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH747246: Please rate the level of emotiveness of the following speech - “We all know that the tremendous development and investment in the south east of England which are worth billions of pounds can really drive business rates whereas in the north of England things are a bit slower and there is not that extent of development There needs to be some sort of balance to ensure that we can drive the economy Perhaps the northern powerhouse will actually mean something in the future”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH637210: Please rate the level of emotiveness of the following speech - “The right hon Lady is making an excellent speech She must be aware of the problem of children living in informal foster care with distant relatives in this country which means that nothing is done to regularise their immigration status and they are threatened with removal at age 18 having been completely unaware that they had no status whatsoever The Home Office needs a different approach to the matter”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH575911: Please rate the level of emotiveness of the following speech - “On a real issue that concerns people there have been 1 1 million immigrants from eastern Europe since 2004 so I repeat the question very courteously put by my hon Friend the Member for Rochford and Southend East James Duddridge  The right hon Gentleman talks about leadership so will he show some and tell us whether the Labour party would grant the British people a referendum on Europe Yes or no”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH314128: Please rate the level of emotiveness of the following speech - “If a company director got up and read out a statement like that the authorities would be after him The Prime Minister says     Let s concentrate on the detail     Let me take one of the things that he has just said He said that 24 out of the 30 car models will not be affected That is what he just said What he is doing when he uses that figure of 24 is treating the Ford Focus for example as one model In fact there are 40 models of the Ford Focus There is the saloon the estate the green car”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH400557: Please rate the level of emotiveness of the following speech - “I should also tell hon Members that if they were to read section 3 of the 1998 Act they would find that if for example the First Minister is voted out by a simple majority and after 28 days no new First Minister has been voted in an election has to take place That is done by a simple majority so the only effect of this provision is to delay matters by requirements relating to a simple majority and 28 days There is no parallel whatsoever in these arrangements and the hon Member for Wyre and Preston North knows it”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH519877: Please rate the level of emotiveness of the following speech - “So much excitement was being engendered by the hon Gentleman that I felt the need to return to the Chamber Then I started to listen which is where I made my mistake I think the hon Gentleman said that the present Government had cut interest rates Can he tell us when they did so My understanding is that they have been entirely flat since they changed under a Labour rather than a Conservative Government”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH375494: Please rate the level of emotiveness of the following speech - “Does the Minister accept that that is a tragedy In many urban areas outside towns and in many rural areas the pub is the only social community facility Will the Government introduce some policies to try to preserve pubs in this country even if that goes against their inclination to increase tax on beer Beer is a popular British tradition I like it people like it let us keep it”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH344151: Please rate the level of emotiveness of the following speech - “First I commend my hon Friend s work in the region and her assessment of the position I can give the reassurance that we have continued to press the DRC Government to plan for post military action including humanitarian work and stabilisation in the way that she describes As she says MONUC is key to that as is the DRC Government s working with MONUC and the reinforcement of MONUC troops I understand that most of the 3 000 reinforcements have been identified and that MONUC will soon send extra troops to northern Congo”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH236401: Please rate the level of emotiveness of the following speech - “My hon Friend is right on both points Medical technology now enables hospitals to work in completely different ways day case surgery is an example of that It is also possible to move many treatments and out patient appointments into the community which means that we need fewer beds and sometimes fewer staff in some of the acute hospitals and that we can provide better and much more convenient care to patients close to their homes”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH280083: Please rate the level of emotiveness of the following speech - “I agree with a great deal of what the right hon Gentleman has said but was he not a member of the Government who did away with the training board and the levy which was imposed on industries that provided the apprenticeships that my right hon Friend the Member for Sheffield Central Mr Caborn and others took up His Government replaced that arrangement with the complete nonsense called the TECS all they produced was hairdressers”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH766152: Please rate the level of emotiveness of the following speech - “The Select Committee report to which the hon Member for Lewisham Deptford Vicky Foxcroft referred uncovered a shocking truth that most girls in secondary education have experienced physical or verbal sexual abuse Four Select Committees are now calling for sex and relationship education to be made compulsory What more evidence is the Minister looking for”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH637874: Please rate the level of emotiveness of the following speech - “I did not actually say that I agreed with targets but in one perverse way I do The points system that I started to introduce before I left the Home Office at the end of 2004 and how it is used now to bring in the skills that we need from outside the European Union are themselves targets by the very nature of the way in which they are set the advice that is taken from the independent commission and the way that we respond Part of the difficulty that we have been debating and it gets tangled up with the issue of whether we should be in or out of the European Union is the nature of free movement”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH157881: Please rate the level of emotiveness of the following speech - “The Government will confirm the timetable once all the remaining issues relating to digital switch over are resolved and we are satisfied that the interests of consumers especially the most vulnerable are well protected The timetable will be set on the basis that it can be met by the broadcasters The House will note I have placed written statements to that effect that the BBC and Ofcom estimate that the completion of switchover can be achieved by 2012”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH376739: Please rate the level of emotiveness of the following speech - “I am listening to the right hon and learned Gentleman with great interest and I am very sympathetic to many of his points Obviously like him I have had to deal with many of those issues However quite genuinely I do not understand the difference between a Bill of Rights of the type he is now advocating and the European convention on human rights and subsequently the 1998 Act What different things would be in the two types of measure”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH54719: Please rate the level of emotiveness of the following speech - “No Conservative Member denied the problems and issues affecting manufacturing industry in relation to the global climate but our point was that manufacturing had raised several specific issues that had caused it problems and had been laid at the Government s door from national insurance to the climate change levy The Government cannot blame world economic conditions for that Why do not the Government take notice of what manufacturing is saying and change some of the things that manufacturing wants them to change”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH534824: Please rate the level of emotiveness of the following speech - “I will follow through on that very good suggestion We are already consulting My hon Friend might be aware that in July we had a series of consultations in the Committee Rooms with Members of the other place and of this House We intend to continue that consultation and to set up demonstrations of how it works at the front end and of what they will need to do We are determined to ensure that Members understand how to claim it I hope that some of them may have to use it in due course”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH207449: Please rate the level of emotiveness of the following speech - “I have not had an opportunity to study that recommendation but I sympathise with the position in which farmers find themselves which is why we established the code of practice particularly when they are trying to restructure their own businesses In meetings in the past few months we have looked carefully at how we can respond to that concern in a way that is consistent with the interests of consumers too The code of practice should be adhered to and I know that many parts of the farming community believe that it has been broken We will carefully examine the matter and if necessary we will take further action”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH115373: Please rate the level of emotiveness of the following speech - “We are currently in the main phase of our marketing campaign for pension credit and have carried out TV and press advertising as well as writing directly to pensioner households We are working in partnership with organisations such as Help the Aged Age Concern and the National Association of Citizens Advice Bureaux at a national and local level to ensure that as many pensioners as possible take up their entitlement”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH590370: Please rate the level of emotiveness of the following speech - “I will look urgently at this case because I reply to hon Members correspondence right across the House and I always will We have put in place very fair rules on the spare room subsidy whereby it does not affect pensioners and does not affect people who need to have that spare room Perhaps when I do write back there is one question I will not be able to answer which is that we still do not know whether Labour is going to replace this because they will not give us an answer”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH172223: Please rate the level of emotiveness of the following speech - “I am grateful Mr Speaker I am delighted in the Chamber or outside to debate with Opposition Members including the right hon Member for Haltemprice and Howden the specifics of the charges that I make I believe that the conduct of politics is important and it should be done in a proper way That applies in the House as the hon Member for Reigate Mr Blunt suggests and as you Mr Speaker implied It also applies in my view to the conduct of general election campaigns That is a point that I am entitled to make”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH293575: Please rate the level of emotiveness of the following speech - “We have been spending substantially more on medical services I have visited some of them and seen the improvements that have been made Many people say that Britain has some of the best medical services for members of the armed forces in the world I repeat that we are spending more on defence and we will continue to do that and that every urgent operational requirement of the armed forces is being met The hon Gentleman would not be able to provide the necessary money for the defence forces because of our economic success we have been able to do so”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH748370: Please rate the level of emotiveness of the following speech - “I completely agree with my hon Friend Universities are a great driver of regional and local economic growth A recent London School of Economics study demonstrates the strong correlation between opening new universities and significantly increased economic growth The LSE academics estimate that doubling the number of universities in a region is associated with more than 4 higher future GDP growth per capita”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH637039: Please rate the level of emotiveness of the following speech - “Can I ask the hon Gentleman about something he said about pensions Does he not think that the coalition Government have got themselves in a bit of a pickle with the concept of people being able to take all their money at one time when there was tax relief on that money when they first paid it into the pension pot There is a great danger that people will receive large sums of money and spend it unwisely unless some protective measures are introduced by the Government to ensure that that does not happen”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH84059: Please rate the level of emotiveness of the following speech - “Will my right hon Friend welcome the Home Office s award of 85 000 to Suffolk police for the recruitment of 15 community support officers Will he join me in encouraging the chief constable to allocate a fair proportion of those officers to the borough of Ipswich where they may be able to support all the agencies that are trying to tackle serious antisocial behaviour in the south east corner of the town”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH801226: Please rate the level of emotiveness of the following speech - “On behalf of my hon Friends the Members for Kensington Emma Dent Coad and for Westminster North Ms Buck and myself may I thank my right hon Friend for visiting the area and making this issue an absolute priority Will he and the Government ensure that disaster relief in north Kensington and pursuing the issue of the safety of people in tower blocks are made the absolute No 1 priority”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH520118: Please rate the level of emotiveness of the following speech - “Does my right hon Friend remember that one of the options that was considered when the previous Government were in power was the creation of a warehouse of information because as certain information was not needed by the service providers the Government would have had to collect it That would be a particularly undesirable and unattractive course of action especially when compared with simply requiring providers to hold information for a little longer”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH685762: Please rate the level of emotiveness of the following speech - “Yes I will The figures that my hon Friend cites are right I will tell him something else Half a million fewer people took out private health insurance in the previous Parliament because the quality of care that they could get on the NHS was rising The Government are committed to the NHS If the right hon Member for Leigh does not want to believe what I am saying about privatisation perhaps he will believe the respected think tank the King s Fund which is clear that his claims of mass privatisation were and are exaggerated”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH747208: Please rate the level of emotiveness of the following speech - “The right hon Gentleman speaks with great expertise and eloquence on these issues about which he knows a great deal Notwithstanding the correct decision of the previous Labour Government to move to a social investment bond at HMPs Doncaster and Peterborough in 13 years his Government failed to tackle recidivism among prisoners serving short sentences Why was that”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH575369: Please rate the level of emotiveness of the following speech - “I am glad that that the hon Gentleman is nodding German contracts are let to German companies there are ways of writing contracts that favour them and this country must get better at that in relation to our companies I mentioned the construction sector and two projects in my constituency This country should ensure that the supply chain supports local subcontractors and local labour and that should be written into contracts far more often”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH748417: Please rate the level of emotiveness of the following speech - “I welcome any increase in access for people from poorer backgrounds but I do not think accessing education should come at the risk of being in debt for the remainder or quite a long part of someone s adult life The National Union of Students in Scotland and in England has said that it is really likely that higher education fees will rise yet again here and that just underlines my point”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH280009: Please rate the level of emotiveness of the following speech - “The hon Gentleman s point is correct but it also draws attention to one of the problems of our political system its adversarial gladiatorial nature Let us be candid people in all parties peddle in their own environment resistance to house building while at the same time deprecating the inadequate housing supply particularly for young first time buyers or for rent Over the years I have mellowed and I think that our adversarial political system is wrong It is particularly flawed in this area and a settlement ought to be reached”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH171716: Please rate the level of emotiveness of the following speech - “My hon Friend is a passionate European who has fought the European cause for as long as he has been in Parliament Does he take the point made by the leader of the Liberal Democrats the right hon Member for Ross Skye and Lochaber Mr Kennedy  that we should gear up for the referendum campaign It is not just a question of having debates in the House The Government have to lead a proactive campaign in the country if we are to win the referendum if it comes next year”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH171744: Please rate the level of emotiveness of the following speech - “My hon Friend is right I do not have access to that document which raises a point that you Mr Deputy Speaker or Mr Speaker may want to look into how is it that Members of Parliament receive from the Government only a flimsy document containing meaningless phrases of the kind that I have just identified whereas as my hon Friend points out members of the press were apparently at the same time issued with a briefing of how many pages”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+
+SPEECH206885: Please rate the level of emotiveness of the following speech - “I always enjoy a question from my hon Friend I am sure that he does not mind a jocular response from me from time to time The duty to provide a place of burial lies with the secular authority The operation and management of Church of England burial grounds is a matter for individual parochial church authorities No central records are kept Clearly the matter that the hon Gentleman raises is an important one and it will be taken seriously by the Church”
+
+very neutral
+somehwat neutral
+about as neutral as emotive
+somehwat emotive
+very emotive
+

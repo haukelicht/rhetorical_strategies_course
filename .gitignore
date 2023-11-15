@@ -5,8 +5,11 @@ manifesto_apikey.txt
 renv/
 syllabus/
 courses/
-data/
-code/sentiment_and_emotions
+*/xx_deprecated/
+
+data/dictionaries/
+data/osnabruegge_playing_2021/sample_speeches_qualtrix/*
+!data/osnabruegge_playing_2021/sample_speeches_qualtrix/responses_anonymous.csv
 
 # History files
 .Rhistory
