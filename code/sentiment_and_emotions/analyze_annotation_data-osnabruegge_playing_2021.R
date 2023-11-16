@@ -36,9 +36,11 @@ data_path <- file.path("data", "osnabruegge_playing_2021")
 #   ) |> 
 #   write_csv(fp)
 
+# read anonymized responses
 fp <- file.path(data_path, "sample_speeches_qualtrix", "responses_anonymous.csv")
 resp <- read_csv(fp)
 
+# create a "mapping" of answer categories to numeric codes
 answers_codes <- c(
   "very neutral" = -2,
   "somehwat neutral" = -1,
@@ -49,10 +51,14 @@ answers_codes <- c(
 
 # assess inter-coder agreement ----
 
-resp_matrix <- resp |> 
+resp_matrix <- resp |> # <== note: we use the native R pipe (instead of dplyr's %>%)
+  # select all columns that start with "SPEECH" (record the emotiveness judgments)
   select(starts_with("SPEECH")) |> 
+  # make columns character (instead of factor)
   mutate_all(as.character) |> 
+  # replace answers with numeric codes
   mutate_all(~answers_codes[.]) |> 
+  # convert to matrix
   as.matrix()
 
 # remove speeches without judgments
@@ -60,25 +66,33 @@ resp_matrix <- resp_matrix[, colMeans(!is.na(resp_matrix)) > 0]
 
 # compute Krippendorff's alpha
 irr::kripp.alpha(resp_matrix, method = "ordinal")
-# note: should be ≥ 0.65
+# note: ideally should be ≥ 0.65
 
-# reshape in desired format ----
+# reshape ratings into desired format ----
 
 ratings <- resp |> 
+  # select response ID and all columns that record coders' emotiveness judgments of speeches
   select(response_id = ResponseId, starts_with("SPEECH")) |> 
+  # reshape from wide to long format
   pivot_longer(-1) |> 
+  # discard cases of speeches a coder has not judged
   filter(!is.na(value)) |> 
   mutate(
+    # extract speech ID from column names
     id_speech = as.double(sub("SPEECH", "", name))
     , name = NULL
+    # convert answer categories to numeric codes
     , rating = answers_codes[value]
   ) |> 
+  # discard cases of speeches a coder has not judged
   filter(!is.na(rating)) 
 
 # aggregate ----
 
 mean_ratings <- ratings |> 
+  # group by speech ID
   group_by(id_speech) |> 
+  # compute mean and SD of numeric ratings
   summarise(
     rating_mean = mean(rating)
     , rating_sd = sd(rating)
@@ -87,9 +101,11 @@ mean_ratings <- ratings |>
 
 # combine with dictionary-based scores ----
 
+# read the data with the dictionary-based scores
 fp <- file.path(data_path, "sample_speeches_qualtrix.rds")
-sampled <- read_rds(fp)                
+sampled <- read_rds(fp)
 
+# combine them with the human-rating data
 combined <- right_join(sampled, mean_ratings, by = "id_speech")
 
 # analyze ----
@@ -107,5 +123,3 @@ combined |>
   ggplot(aes(x = rating_mean, y = reorder(debate_type, rating_mean))) +
   geom_boxplot() +
   labs(y = NULL, x = "level of emotiveness (average of human judgments)")
-
-
