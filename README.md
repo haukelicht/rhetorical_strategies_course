@@ -1,6 +1,6 @@
 # Code and materials for course "Comparative perspectives on elite rhetoric and democratic competition"
 
-This repository contains code and materials for the course "Comparative perspectives on elite rhetoric and democratic competition" taught by Hauke Licht (hauke.licht@wiso.uni-koeln.de).
+This repository contains code and materials for the course "Comparative perspectives on elite rhetoric and democratic competition" taught by Hauke Licht (hauke.licht@uibk.ac.at).
 
 ## R setup
 

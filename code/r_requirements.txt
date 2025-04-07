@@ -5,6 +5,7 @@ purrr@1.0.2
 lubridate@1.9.3
 stringi@1.7.12
 stringr@1.5.0
+quanteda@4.2.0
 dataverse@0.3.13
 ggplot2@3.4.4
 ggridges@0.5.4
