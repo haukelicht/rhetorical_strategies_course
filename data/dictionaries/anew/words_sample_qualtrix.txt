@@ -1,0 +1,2602 @@
+[[AdvancedFormat]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-bunny]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>bunny</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-bunny]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>bunny</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-innocent]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>innocent</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-innocent]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>innocent</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-complete]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>complete</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-complete]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>complete</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-wool]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>wool</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-wool]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>wool</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-malt]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>malt</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-malt]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>malt</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-silk]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>silk</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-silk]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>silk</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-nasty]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>nasty</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-nasty]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>nasty</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-dummy]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>dummy</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-dummy]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>dummy</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-bride]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>bride</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-bride]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>bride</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-missiles]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>missiles</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-missiles]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>missiles</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-amuse]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>amuse</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-amuse]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>amuse</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-awaken]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>awaken</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-awaken]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>awaken</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-kindness]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>kindness</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-kindness]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>kindness</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-bark]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>bark</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-bark]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>bark</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-testicles]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>testicles</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-testicles]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>testicles</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-refine]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>refine</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-refine]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>refine</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-infection]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>infection</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-infection]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>infection</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-growl]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>growl</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-growl]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>growl</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-killer]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>killer</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-killer]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>killer</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-calm]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>calm</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-calm]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>calm</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-castrate]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>castrate</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-castrate]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>castrate</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-sword]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>sword</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-sword]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>sword</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-jaguar]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>jaguar</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-jaguar]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>jaguar</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-shrimp]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>shrimp</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-shrimp]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>shrimp</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-bawl]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>bawl</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-bawl]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>bawl</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-mantel]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>mantel</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-mantel]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>mantel</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-alcoholic]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>alcoholic</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-alcoholic]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>alcoholic</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-rainbow]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>rainbow</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-rainbow]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>rainbow</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-messy]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>messy</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-messy]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>messy</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-corrupt]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>corrupt</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-corrupt]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>corrupt</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-gorilla]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>gorilla</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-gorilla]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>gorilla</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-miracle]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>miracle</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-miracle]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>miracle</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-razor]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>razor</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-razor]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>razor</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-surgeon]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>surgeon</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-surgeon]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>surgeon</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-arrogant]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>arrogant</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-arrogant]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>arrogant</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-movie]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>movie</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-movie]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>movie</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-picnic]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>picnic</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-picnic]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>picnic</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-expert]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>expert</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-expert]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>expert</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-ramble]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>ramble</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-ramble]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>ramble</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-comet]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>comet</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-comet]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>comet</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-fault]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>fault</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-fault]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>fault</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-punk]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>punk</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-punk]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>punk</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-contempt]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>contempt</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-contempt]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>contempt</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-theory]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>theory</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-theory]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>theory</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-wild]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>wild</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-wild]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>wild</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-animal]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>animal</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-animal]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>animal</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-cattle]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>cattle</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-cattle]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>cattle</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-decency]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>decency</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-decency]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>decency</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-intoxicated]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>intoxicated</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-intoxicated]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>intoxicated</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:valence-overcast]]
+How would you rate the <b><em>valence</em></b> of the following word? &ldquo;<b>overcast</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:-4]]
+extremeley negative
+[[Choice:-3]]
+ 
+[[Choice:-2]]
+ 
+[[Choice:-1]]
+ 
+[[Choice:0]]
+ 
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+extremeley positive
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:arousal-overcast]]
+How would you rate the <b><em>arousal</em></b> of the following word? &ldquo;<b>overcast</b>&rdquo;
+
+[[AdvancedChoices]]
+[[Choice:0]]
+extremeley calm/subdue
+[[Choice:1]]
+ 
+[[Choice:2]]
+ 
+[[Choice:3]]
+ 
+[[Choice:4]]
+ 
+[[Choice:5]]
+ 
+[[Choice:6]]
+ 
+[[Choice:7]]
+ 
+[[Choice:8]]
+extremeley aroused/excited
+
+[[PageBreak]]
+
